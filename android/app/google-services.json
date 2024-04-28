@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299880691446",
+    "project_id": "newtask-74490",
+    "storage_bucket": "newtask-74490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299880691446:android:72f9c2f9fff7051c839ed7",
+        "android_client_info": {
+          "package_name": "com.sree.sampleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx9CCWIBJZyPf_TrtH6FrP0IXi8zoc9C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
